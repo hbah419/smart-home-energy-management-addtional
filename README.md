@@ -1,1 +1,2 @@
 # smart-home-energy-management-addtional
+The smart home energy management system is designed to help households, renters, and business owners monitor their electricity consumption. The system will provide users with insight into the energy usage and show each device is being used the most throughout the lease. The goal for this system is to promote energy efficiency and reduce utility bills to contribute to environmental stability.
